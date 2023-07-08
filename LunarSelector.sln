@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunarSelector", "LunarSelector\LunarSelector.csproj", "{ED07DEBF-9960-4243-A7C4-F0D9AF2CD6CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED07DEBF-9960-4243-A7C4-F0D9AF2CD6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED07DEBF-9960-4243-A7C4-F0D9AF2CD6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED07DEBF-9960-4243-A7C4-F0D9AF2CD6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED07DEBF-9960-4243-A7C4-F0D9AF2CD6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {863F7E2B-3E7C-465E-A90B-ECDE8AB4E3E0}
+	EndGlobalSection
+EndGlobal
